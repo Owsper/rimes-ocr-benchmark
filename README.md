@@ -84,10 +84,10 @@ They are right here, next to the four CSVs:
 
 | Chart | File |
 |-------|------|
-| PaddleOCR | [`results/paddleocr_test.png`](results/paddleocr_test.png) |
-| Tesseract | [`results/tesseract_test.png`](results/tesseract_test.png) |
-| TrOCR     | [`results/trocr_test.png`](results/trocr_test.png) |
-| EasyOCR   | [`results/easyocr_test.png`](results/easyocr_test.png) |
+| PaddleOCR | ![](results/paddleocr_test.png) |
+| Tesseract | ![](results/tesseract_test.png) |
+| TrOCR     | ![](results/trocr_test.png) |
+| EasyOCR   | ![](results/easyocr_test.png) |
 
 CSVs of the same runs are alongside them (`results/<model>_test.csv`).
 
