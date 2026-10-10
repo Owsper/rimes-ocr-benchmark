@@ -1,0 +1,101 @@
+id,gold,pred,cer,wer,em,infer_ms
+1,Comme indiqué dans les conditions particulières de mon contrat d'assurance,Cqme indique dans ls condike culceies & (MUOA Cntat &' (xswanu naili,0.4594594594594595,0.9090909090909091,0,1594.519
+2,"habitation n° DPUET36, je souhaite vous faire part de mon récent déménagement",haltlatxcn me DPUE7 36 Saulcat Wcdl daun j mon ~i dmehogonext 0 cuk Aut,0.68,1.1666666666666667,0,1303.665
+3,"de mon domicile du 3 Rue Gambetta, 57000 METZ, en date du 28 février","d (M Jomicle du 3 Rue Gam belta 5700 Me7z, @n Acte du 98 Uevuie",0.25757575757575757,0.7857142857142857,0,1341.676
+4,2007.,8937,0.75,1.0,0,269.181
+5,Je souhaite donc que vous procédiez à la résiliation de mon contrat,g sulat   Jic au TQus a @  aisliaHicn d mc ctict dic Kbcb c,0.7014925373134329,1.0833333333333333,0,1251.033
+6,"d'assurance habitation concernant ce logement, comme stipulé dans les conditions",d' abuanie Ralitak; tnv Ccn CQ lgomen}' Come Akjult dct %  cndibios Un cvnk,0.5569620253164557,1.0909090909090908,0,1514.533
+7,"générales du contrat. Je vous prie, par ailleurs, de me faire parvenir une",In &ales du chat . % vs huie tat ctlleuus o Me 8ave   Jawnin Je,0.4507042253521127,0.9230769230769231,0,1329.538
+8,notification de résiliation dans les plus brefs délais et de procéder au remboursement,msHficat; (m 4 nbsikiak= Ch Jana ss heks ddlaic e & mocdol aUul alow smewh| nl,0.5813953488372093,1.1538461538461537,0,2077.503
+9,de la part de cotisation correspondant à la période pour laquelle je me suis,"de   Va ctisal;mn cJvondcxt af ( odAou uella je KQ Aul Qad"" haxt hekie",0.6973684210526315,0.9285714285714286,0,1491.082
+10,plus garant :,Nu   Aac anf],0.6363636363636364,1.5,0,257.607
+11,Je tiens à vous assurer de ma satisfaction quant à la qualité de,J Aens & ~ocu Mssue 3  ma Xks facktcn 8 Va Hucli t quot,0.578125,1.0,0,1331.95
+12,"service dont j'ai bénéficié jusqu'ici. Je vous prie, Madame, Monsieur,",JeAW ic dot &'ai'  lene (ice jusqu'iu z vous me clbadlm clbcns;  Qll,0.5151515151515151,0.9166666666666666,0,1593.618
+13,d'accepter l'expression de mes salutations distinguées.,L 4' Q' &nexsicn & (1a Jalutalicns   distigutes accut,0.6111111111111112,1.0,0,1161.869
+14,J'ai reçu hier ma facture concernant,J'ai ceg hor ma Qeclure Concemnanh,0.2777777777777778,0.5714285714285714,0,1017.926
+15,mon compte et je ne comprends pas,Mzn ek R nQ Compiendd p Compl,0.6060606060606061,1.0,0,1272.019
+16,pourquoi le montant est si élevé.,poeerquoi (q malant esk 8 elque',0.4375,1.0,0,1137.682
+17,Ce n'est pas du tout ce qui était,Cq alesk dqq Coqer CQ ek) qesi PQD,0.7272727272727273,1.0,0,1045.008
+18,prévu au départ.,U QLL 82 Pa_L Pie_,1.0,1.6666666666666667,0,795.093
+19,Merci de bien vouloir vérifier et de me,Hez; Q bin   Uouloe ( Jesi {o e} dq OQ,0.5384615384615384,1.125,0,957.296
+20,tenir au courant rapidement.,lau QU cojfc (abi &mont,0.5925925925925926,1.25,0,874.389
+21,Suite à la vente de mon véhicule assuré chez vous,Scale 0 Qa ve~te de Mon vea  cle aaae Vola4 Jej,0.4897959183673469,1.0,0,1533.862
+22,"en date 05/03/07, je vous demande de prendre",Qn dalk 05/03/07 ) {2 ven Jena-& pecole,0.46511627906976744,0.7,0,1246.832
+23,en compte ma demande de résiliation d'assurance,Qn mO demande de AaA /'ebzen QsQsC2 corple,0.6382978723404256,0.875,0,1557.955
+24,automobile à date de réception de ce courrier.,a_bemobile & Jal & & ce cee1lee1 Aecepkzen,0.6,1.0,0,1035.278
+25,Mon numéro de référence client est le XQPCH09.,Hen nutex0 de neleence cl.e ( esl Qe XQPch 09,0.37777777777777777,1.125,0,1618.859
+26,"Je vous remercie par avance et vous prie, Monsieur,",1 Vols Reln exc &e fo avon@e el va+a Nons-es^ 1 Pxle,0.6122448979591837,1.6666666666666667,0,1951.614
+27,d'agréer mes salutations distinguées.,J' axe & ^05 pal_lakenb LaHerf-ec,0.6944444444444444,1.2,0,1062.83
+28,Je vous prie de bien vouloir prendre acte de ma,Xe Oou? clq ken Goulo acte Coa pue peaolla Qlo,0.723404255319149,1.0,0,1627.083
+29,"volonté de résilier, à sa date d'échéance, soit le",Gokon ta aLa 1 2 7uQa ) @' AC_ date 04 ' &&Qe ance Doitea,0.6041666666666666,1.1,0,1612.456
+30,"17 mai 2007, le contrat d'assurance souscrit auprès de",4Y oo 200) pe confa @t 04 Qs8UA @ua & boubc€ a ole Sno 0 Key,0.6415094339622641,1.5,0,1641.351
+31,votre compagnie sous le numéro mentionné ci-dessus.,6Ge Coto) Pacne Dous Qe LUu624 0 neo&*@r2 c- @loxls,0.58,1.375,0,1494.631
+32,"Je vous serais reconnaissant de me faire parvenir,","X2 YCLL ? Jeeacu"" 8 Mcannqu""Sgcunt d (o) r Youue Peuueni",0.6530612244897959,1.375,0,1530.523
+33,"le plus rapidement possible, une notification de",Qa pullc> aa PosA' te 1 JO R nt %   Qat c oke Qai pxalls,0.8297872340425532,2.0,0,1466.391
+34,résiliation.,"eta0o $C"" L",1.0,3.0,0,478.163
+35,"Dans l'attente, je vous prie d'agréer, Madame, Monsieur,","Dar> 2' a enSo 42 (3oud ioe o ' &9xeea radane Kon x""euu",0.5192307692307693,1.3,0,1484.734
+36,l'assurance de mes sentiments distingués.,"0 ( cudAAQs & 0l Co) refa exC a""stznque",0.675,1.3333333333333333,0,1232.337
+37,J'ai bien reçu la commande passée la semaine dernière (Voir,Hun fa Uommand Ya Jemacte delu Vaa 8 ' & nel tamee,0.7241379310344828,1.0,0,877.676
+38,bon de commande).,(on &z (@mvtank ),0.6,1.0,0,321.941
+39,"Malheureusement, je n'ai pas reçu le bon article, il ne","Q lmn axcl , M Mallzwxe wsenet 4 ^ 'al hos hecu",0.8113207547169812,1.0,0,808.226
+40,correspond pas à la description.,hxs @ duoxtkan Kovethond,0.8064516129032258,1.0,0,580.116
+41,Je  souhaiterais  donc me faire rembourser le prix de,Joukaknia Lonc (e {aue nembbis pe ^e,0.5490196078431373,1.0,0,839.349
+42,l'article ainsi que les frais de port.,U 0 ' mtule AnA Ye Ls hhau d t hn,0.5675675675675675,1.25,0,643.413
+43,"En vous remerciant de faire le  nécessaire , veuillez agréer,",Em Jemudlank 4e ( b milllane ARuE ~bu Al& e3u1,0.6842105263157895,1.0,0,979.38
+44,"Madame, Monsieur, l'expression de mes sentiments distingués.",Madane Monsul 0 #Mean d mes Jentinvnb Lu6nquea,0.47368421052631576,0.875,0,823.071
+45,Suite à ma commande du 3 mars concernant,Suite mc commcindq db 3 Marf Cbnleraanl,0.3,0.75,0,1300.497
+46,"la fourniture de 250 paires de chaussettes, je me",%a doucniturc cke 2So   Pcicej de chclettef a4 e me,0.3958333333333333,0.8888888888888888,0,865.7
+47,suis aperçu que la quantité commandée est erronée.,l wmmancle € esh erronec Sujj cecgu Yuant?k? 9we,0.8571428571428571,1.125,0,1024.162
+48,Nous avons en fait un besoin de 500 paires,Abuj aonf en dah U^ besoin de SOo Pciices,0.35714285714285715,0.6666666666666666,0,990.108
+49,"de chaussettes, soit le double de la commande initiale.",2le chaffettes pe doule de Va cOmman de ;aikafe ) Soit,0.4528301886792453,1.1111111111111112,0,1184.432
+50,Je vous prie donc de me faire parvenir une,Je Uous ouc de m& Jaire Par venic in12 Rrie,0.4523809523809524,1.0,0,977.722
+51,nouvelle offre prenant en compte ma demande ainsi,nuvelle olt F Cm COM Pl Ma demande aafi prenav,0.5102040816326531,1.0,0,1202.995
+52,que les modifications que cela  entraine  sur les délais,62s dicationl %ue ca   entraine Sur les de 4ve Qcu4 modi,0.5370370370370371,1.0,0,1083.388
+53,de livraison.,de Cvraicov,0.3333333333333333,0.5,0,476.594
+54,Sincères salutations,Siuceres   Ca@dalcenf,0.5,1.5,0,565.416
+55,"Je vous prie de bien vouloir augmenter,",Voleo Q Oq 6) &u c lsi  Qlle Kueutea 6'<,0.7894736842105263,1.4285714285714286,0,954.745
+56,si possible de doubler les quantités,Ax Qo8ssi bl de doub le Me Suadtes,0.4166666666666667,1.1666666666666667,0,976.392
+57,d'actions boursières que je vous ai,0l act bouss}' e1s A & Vo) @U Os,0.5714285714285714,1.1428571428571428,0,897.538
+58,commandé.,COl waydl,0.625,2.0,0,435.221
+59,Vous  remerçiant  par avance de l'intérêt,Vou? OQwesf Gauk par aUcUl (Q Olq VuuRrek,0.6410256410256411,1.0,0,1358.858
+60,"que vous porterez à ma requête, recevez",Puq Vore qn 0 Lla Q Swq ke peiler n2couez,0.7105263157894737,1.4285714285714286,0,1248.96
+61,"Madame, Monsieur, mes sincères salutations.",Nadau Ra; eur Ju0o (ul @1o) Jaluhataua ),0.65,1.4,0,1020.51
+62,Je vous informe que j'ai malencontreusement provoqué,J2 VBUj Kn F26mr Axe 5 ' a' malencn ue meo} Pro 1 ? qu & Fc e,0.5384615384615384,1.875,0,1492.659
+63,un accident de la circulation le 11 Mars 2007 à Forbach.,arcu laleo (e MA Mars 200 ` 2 Facbach AO acc ide aL de Ia,0.8363636363636363,1.2727272727272727,0,1734.591
+64,"Effectivement, je me suis avancée après un STOP, et avec le","av@ 0 cae 2 Pre $ J0 Stoe 2 } ave ( Ic EfFecliv emoal , j c O0 $ U :)",0.8070175438596491,1.4545454545454546,0,1410.002
+65,"soleil, je n'ai pas vu le motard arrivé. Les dégâts sont","VU mokecd acc : V e Les A4g21, Jo^k Se1 Je ^ '2: (e p 2s &l",0.7962962962962963,1.3333333333333333,0,1332.206
+66,uniquement matériel.,Mc `@1y & CaFe r Pel ~Q n F,1.0526315789473684,4.0,0,613.2
+67,Vous trouverez ci-joint le constat d'accident.,V ou $ froyvered cx -J ofol le Coosh + d'acci deok_,0.4,1.125,0,1211.934
+68,Je reste à votre disposition pour apporter toute précision,3e re $ Fe 2 vorce d;feof'6o n pouc 2pfortar sou te Rrecs' 00,0.4482758620689655,1.6666666666666667,0,1727.689
+69,utile.,Ahl e,0.8,2.0,0,318.539
+70,"Recevez, Madame, Monsieur, l'assurance de mes sentiments",0 Ca de m 0 / Senhmaals Madame Mocscjc 1 'asfuc2 Qecev e ] > ),0.7924528301886793,1.5,0,1329.957
+71,distingués.,Aizhsucr,0.8,1.0,0,400.14
+72,"Auriez-vous l'obligence de me communiquer, par",Aui 'ez Lous I'oblgecnce ck me cemmunauer) Fa `,0.28888888888888886,1.0,0,1507.081
+73,"tout moyen à votre convenance, le détail de vos","l moyen jote Cenuenace , Qa_ &ieaui ) c UoS",0.4782608695652174,0.8888888888888888,0,1572.205
+74,"horaires d'ouverture au public, afin de préparer","Kerat_p dOuuestxle_ QL PxEQ~c , sn paoter",0.6170212765957447,1.0,0,1668.411
+75,au mieux ma future visite à votre agence.,aL meu% ma Jte_ u~Cc 6 Uoke CS aden,0.6,1.125,0,1596.195
+76,Je vous en remercie par avance et  vous,2 UCU? @n MC_mCLCL_ Pa ` OCOUA CQ_ ex LOU?,0.631578947368421,1.125,0,1330.24
+77,"prie d'agréer, Messieurs, l'expression de mes",p Lu_ ocy Alcssess ( J CKPALDLS 0 da O1C),0.7209302325581395,1.125,0,1513.346
+78,salutations distinguées.,allaskon) A-bnce?,0.6521739130434783,1.5,0,950.649
+79,"J'ai vu une  publicite  sur votre société,","ule Au Golck 62 Q NU un} 1 Joce tube""",0.7948717948717948,1.25,0,905.005
+80,on m'en a déjà dit du bien par ailleurs,v Un 0 dya dit dus Czen nas au(tlacu m (,0.5384615384615384,1.1,0,808.285
+81,alors je souhaiterai avoir des documents,d documenb alsu & fouRa Gacu aou,0.8,1.0,0,916.261
+82,pour une ouverture de compte chez vous,NUDU) Asu Ane Guelila de (R3 coma k,0.7368421052631579,1.0,0,748.773
+83,Je reste à votre disposition en espérant,Ast ~otc du_ em ad &nes '(Lojlon,0.725,1.0,0,663.047
+84,avoir bientôt de vos nouvelles,"Aentat & ~0J mouyell, Cbou",0.7,1.0,0,656.883
+85,"Cordialement,",Codic_bmunt,0.4166666666666667,1.0,0,409.416
+86,"Hier, en sortant de chez moi, j'ai malencontreusement marché sur le chien de ma",Hie en sflant &k 'J'ai malencmnblewsement marchi iur & chien & ina chs ma=,0.4025974025974026,0.7333333333333333,0,1026.278
+87,"voisine. Celle-ci, tenant beaucoup à son chien, a été particulièrement affectée par l'accident",Voisi n Celee a kenant 1 Scm a &k cligwment allde p Vaccid_t beaucoy  &ien har,0.6263736263736264,1.0666666666666667,0,1101.952
+88,et me demande un dédommagement de taille,ef m demanda Un decomn _ mafement & tall,0.375,1.0,0,909.687
+89,"Etant assurée chez vous depuis de nombreuses années, je sais que l'on peut compter",Etanl a Ssu; & € Gcll1 4 nbmbrels) annie (m j sstut ccmyler shs Apuui s pxut,0.654320987654321,1.0,0,1122.731
+90,sur l'efficacité de vos services. J' aurais  ici besoin que vous me couvriez au titre de,Isur Q suck d JCs srtuice) Taka 5 ici bescin qhu: Vcus me Abu & cu cculutieg,0.5176470588235295,0.8823529411764706,0,1113.093
+91,la responsabilité civile.,Qa rrxenokek  ciui &e,0.625,1.3333333333333333,0,541.059
+92,"Dans l'attente de votre réponse,",Dans ?' ateite & uabu Jupense,0.4838709677419355,0.8333333333333334,0,503.673
+93,Cordialement,Cordiclemnent,0.16666666666666666,1.0,0,369.895
+94,J'aimerais doubler mes prochaines commandes de CD vierges de,daublen NTO Commamdep d CD ucr? d J aumenaio Mokains,0.8166666666666667,1.0,0,862.292
+95,la part de votre organisme.,@a d agamSme Vche pl,0.7692307692307693,1.0,0,476.918
+96,Je vous serais gré de me tenir au courant de la possibilité,keun aL & @ bnaus d M & vlo &e pocsblte - (quuan},0.7457627118644068,1.0,0,908.135
+97,de cette commande.,d Cala_] (Ommanck,0.47058823529411764,1.0,0,505.094
+98,"Vous remerciant d'avance, veuillez agréer, Madame, Monsieur,","(lacbm, (bnicun_ Vaw nemecamt d' awne seuls {acex",0.7678571428571429,1.0,0,814.224
+99,l'expression de mes sentiments respectueux.,6 / exmebion d (2D lntmomts nearchux,0.5,1.0,0,717.641
+100,Ayant passé commande de 10 CD,A Yent tose Com mzhde Ko CD &o,0.5172413793103449,1.1666666666666667,0,724.01

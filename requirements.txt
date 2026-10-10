@@ -1,0 +1,55 @@
+# Full Python dependency set — pinned to the exact working versions
+# from `pip freeze` in the project venv (Python 3.11, Windows, CPU-only).
+#
+# The 4 benchmarks use:
+#   paddleocr_test.py  -> paddleocr / paddlepaddle
+#   easyocr_test.py    -> easyocr
+#   trocr_test.py      -> transformers / tokenizers / accelerate / sentencepiece
+#   tesseract_test.py  -> pytesseract (external Tesseract binary required,
+#                         see README "Tesseract binary" section)
+# Shared harness:
+#   ocr_eval.py        -> numpy / pillow / matplotlib / datasets / scikit-learn
+#
+# To recreate the exact environment:
+#   py -3.11 -m venv .venv
+#   .\.venv\Scripts\Activate.ps1
+#   pip install -r requirements.txt
+#
+# Then install the Tesseract 5 Windows binary (UB-Mannheim build)
+# once, outside of pip: https://github.com/UB-Mannheim/tesseract/wiki
+# and copy fra.traineddata into its tessdata\ folder.
+
+# ---- core / shared harness ---------------------------------------------------
+numpy==2.4.6
+pillow==12.3.0
+matplotlib==3.11.2
+datasets==2.14.7
+scikit-learn>=1.2
+Levenshtein>=0.21
+
+# ---- PaddleOCR (winner) ------------------------------------------------------
+paddlepaddle==3.3.1
+paddleocr==3.7.0
+# transitive but commonly needed neighbours:
+opencv-contrib-python==4.10.0.84
+opencv-python-headless==5.0.0.93
+shapely==2.2.0
+pyclipper==1.4.0
+python-bidi==0.6.11
+imgaug>=0.4.0        # optional: data augmentation on retrain; harmless pin
+
+# ---- EasyOCR -----------------------------------------------------------------
+easyocr==1.7.2
+
+# ---- TrOCR (HF) --------------------------------------------------------------
+transformers==4.30.2
+tokenizers==0.13.3
+accelerate==1.15.0
+sentencepiece>=0.1.97
+torch==2.14.1
+torchvision==0.29.1
+
+# ---- Tesseract wrapper (Python side only; the binary is installed separately)
+pytesseract==0.3.13
+
+

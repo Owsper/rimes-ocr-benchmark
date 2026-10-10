@@ -1,0 +1,101 @@
+id,gold,pred,cer,wer,em,infer_ms
+1,Comme indiqué dans les conditions particulières de mon contrat d'assurance,Comme indique' dans les conditions particulieres de man contrat d'assmanie,0.08108108108108109,0.36363636363636365,0,9535.684
+2,"habitation n° DPUET36, je souhaite vous faire part de mon récent déménagement","habitation no, D""P.F.36, is sentate news fair part de mon recent defenceagement",0.28,0.9166666666666666,0,9400.911
+3,"de mon domicile du 3 Rue Gambetta, 57000 METZ, en date du 28 février","de man domicile du 3 Rue' Gambetta, 37000 MET2, on date du 28 French",0.15151515151515152,0.35714285714285715,0,9015.035
+4,2007.,205 7.,0.5,2.0,0,1632.769
+5,Je souhaite donc que vous procédiez à la résiliation de mon contrat,"To seekpite, done one vows providing a to sterilization de man contract",0.3582089552238806,0.9166666666666666,0,6197.926
+6,"d'assurance habitation concernant ce logement, comme stipulé dans les conditions","d' assurance habitation emernant a fragment, comme stipuli dans les conditions",0.13924050632911392,0.36363636363636365,0,8329.13
+7,"générales du contrat. Je vous prie, par ailleurs, de me faire parvenir une","ginculates the contract. It was quite, for auteous, de me farie personin some",0.4647887323943662,0.8461538461538461,0,9970.605
+8,notification de résiliation dans les plus brefs délais et de procéder au remboursement,instification de dislocation dams less plans birds declare of de-produced an embarrassment,0.3488372093023256,0.8461538461538461,0,7090.12
+9,de la part de cotisation correspondant à la période pour laquelle je me suis,be the part de activation correspondent of La pelicide pour laquelle je re suis,0.19736842105263158,0.5,0,8306.484
+10,plus garant :,plus garanti.,0.09090909090909091,0.5,0,2109.233
+11,Je tiens à vous assurer de ma satisfaction quant à la qualité de,"be trans a news, assumes de ma satisfaction cannot a la qualite. He",0.25,0.6923076923076923,0,6944.965
+12,"service dont j'ai bénéficié jusqu'ici. Je vous prie, Madame, Monsieur,","service, don't join Delpeffre, jusqu'in ;. He was put a chambrement, chambrean,",0.5909090909090909,0.9166666666666666,0,14221.647
+13,d'accepter l'expression de mes salutations distinguées.,d acceptor l' expression de' mer salutations distinguished.,0.1111111111111111,0.375,0,5678.366
+14,J'ai reçu hier ma facture concernant,J'ai regu hier ma facture concernant,0.027777777777777776,0.14285714285714285,0,4511.991
+15,mon compte et je ne comprends pas,man compto et je ne comprendo pas,0.09090909090909091,0.42857142857142855,0,4760.906
+16,pourquoi le montant est si élevé.,peerquoi le montant est si eleve. ',0.125,0.3333333333333333,0,5010.408
+17,Ce n'est pas du tout ce qui était,Ce n'est pas due touter ce qui eheit,0.18181818181818182,0.3333333333333333,0,5840.021
+18,prévu au départ.,preure are depant.,0.5333333333333333,1.0,0,2784.784
+19,Merci de bien vouloir vérifier et de me,Mazi de bien vauloir verifier et de me,0.1282051282051282,0.375,0,5658.931
+20,tenir au courant rapidement.,their all constant rapidement.,0.25925925925925924,0.75,0,2874.085
+21,Suite à la vente de mon véhicule assuré chez vous,"suite is to rente de mon vehicle asme "" clay vows",0.30612244897959184,0.7,0,8133.916
+22,"en date 05/03/07, je vous demande de prendre","an date 05103107, je vows demands to prescribe",0.2558139534883721,0.8,0,4782.121
+23,en compte ma demande de résiliation d'assurance,"an complete, ma demande de nasiiliation d'Assurance",0.1276595744680851,0.375,0,5844.319
+24,automobile à date de réception de ce courrier.,automobile a date of reception de ce commier.,0.15555555555555556,0.5,0,5625.521
+25,Mon numéro de référence client est le XQPCH09.,Non numero de reference client est le XQPCHOS.,0.13333333333333333,0.5,0,5720.133
+26,"Je vous remercie par avance et vous prie, Monsieur,","De vous remercie per avance et vous pine, Monsieux,",0.10204081632653061,0.4444444444444444,0,8025.853
+27,d'agréer mes salutations distinguées.,d' agree near solutions distinguishes.,0.3055555555555556,0.8,0,3319.235
+28,Je vous prie de bien vouloir prendre acte de ma,He sous quite de bien soulou perdue ante de ma,0.2553191489361702,0.6,0,6372.135
+29,"volonté de résilier, à sa date d'échéance, soit le","colomb de neinilies, a sa date of experience, with",0.5,0.7,0,8025.038
+30,"17 mai 2007, le contrat d'assurance souscrit auprès de",""" If you lost, he content at a taskmanee souscrit aupris de",0.39622641509433965,0.9,0,11000.717
+31,votre compagnie sous le numéro mentionné ci-dessus.,white campaignie sous la numiero mentionni c'i-dessus.,0.22,0.875,0,10332.975
+32,"Je vous serais reconnaissant de me faire parvenir,","the court's reconnaissance to the fair-pauvenil,",0.3673469387755102,1.0,0,7351.344
+33,"le plus rapidement possible, une notification de","be plus a retirement possible, tune notification are",0.19148936170212766,0.7142857142857143,0,5479.661
+34,résiliation.,re' silicutions.,0.45454545454545453,2.0,0,3881.575
+35,"Dans l'attente, je vous prie d'agréer, Madame, Monsieur,","Dans l'atiente, je sous, pic d'agrier, Madame, Montreux,",0.15384615384615385,0.5,0,14684.838
+36,l'assurance de mes sentiments distingués.,flavourance de mes sentiments distinguets.,0.15,0.5,0,5422.096
+37,J'ai bien reçu la commande passée la semaine dernière (Voir,If a man require the commanda pastric la semaire danniere ( Vcin,0.41379310344827586,0.9090909090909091,0,11117.798
+38,bon de commande).,bon de commande ).,0.0,0.0,1,3874.902
+39,"Malheureusement, je n'ai pas reçu le bon article, il ne","Mulboureuxement, je m'ai pas rega la bon article, il ne",0.1509433962264151,0.36363636363636365,0,12130.174
+40,correspond pas à la description.,correspond past in a description.,0.12903225806451613,0.6,0,3233.315
+41,Je  souhaiterais  donc me faire rembourser le prix de,to substantinois done me faire rambreman le prix de,0.35294117647058826,0.4444444444444444,0,6378.891
+42,l'article ainsi que les frais de port.,""" article aims : que les frais de part",0.13513513513513514,0.375,0,5385.854
+43,"En vous remerciant de faire le  nécessaire , veuillez agréer,","Emorous reminiscent de fame la miellaine, semilthy agrover,",0.43859649122807015,0.8888888888888888,0,10607.58
+44,"Madame, Monsieur, l'expression de mes sentiments distingués.","Madame, Monsieur, & expansion de mes sentiment distingues.",0.12280701754385964,0.5,0,8358.115
+45,Suite à ma commande du 3 mars concernant,suite a ma commune du 3 mars concernant,0.075,0.25,0,6291.88
+46,"la fourniture de 250 paires de chaussettes, je me","la journiture de 250 parires de chaussettes, je me",0.041666666666666664,0.2222222222222222,0,9612.829
+47,suis aperçu que la quantité commandée est erronée.,sub agree to give a quantity commandee est erronee.,0.30612244897959184,1.0,0,7902.807
+48,Nous avons en fait un besoin de 500 paires,Nous awons en fait un besain de Sao paires,0.11904761904761904,0.3333333333333333,0,7949.274
+49,"de chaussettes, soit le double de la commande initiale.","de chaussettes, soit le double de la commande initiate.",0.018867924528301886,0.1111111111111111,0,9513.753
+50,Je vous prie donc de me faire parvenir une,Te vous prie douc de me faire parvenir one,0.07142857142857142,0.3333333333333333,0,8390.327
+51,nouvelle offre prenant en compte ma demande ainsi,nauselle offer prenant en comple ma demande ainsi,0.10204081632653061,0.375,0,7471.367
+52,que les modifications que cela  entraine  sur les délais,que les modifications que cha entraine sur les delcis,0.07407407407407407,0.2222222222222222,0,5902.793
+53,de livraison.,de livraison.,0.0,0.0,1,3301.758
+54,Sincères salutations,Sincerely evaluations,0.3,1.0,0,2434.265
+55,"Je vous prie de bien vouloir augmenter,","He was one de bien vanleir an Quentin,",0.42105263157894735,0.8571428571428571,0,6873.635
+56,si possible de doubler les quantités,si possible de double her quantute's,0.16666666666666666,0.6666666666666666,0,4695.167
+57,d'actions boursières que je vous ai,"d'actions, boursiehes que je vous cui",0.11428571428571428,0.2857142857142857,0,7924.607
+58,commandé.,commander. ',0.25,1.0,0,2836.404
+59,Vous  remerçiant  par avance de l'intérêt,Vous nemer giant par avance de l'interiet,0.15384615384615385,0.42857142857142855,0,8274.742
+60,"que vous porterez à ma requête, recevez","que was pottered at a request, necevezz",0.34210526315789475,0.8571428571428571,0,6815.216
+61,"Madame, Monsieur, mes sincères salutations.","Madame, Marvier, new suicides salutations.",0.25,0.6,0,7118.156
+62,Je vous informe que j'ai malencontreusement provoqué,Je vous informa que jui malencontreuxement provaque,0.11538461538461539,0.625,0,9401.155
+63,un accident de la circulation le 11 Mars 2007 à Forbach.,un accident de la circulation le 1 1 Mar. 2007 is Forbach.,0.07272727272727272,0.36363636363636365,0,8534.708
+64,"Effectivement, je me suis avancée après un STOP, et avec le","Effectiveness, je mossus avancie apreis un stop, et avec le",0.15789473684210525,0.45454545454545453,0,11222.344
+65,"soleil, je n'ai pas vu le motard arrivé. Les dégâts sont","soreil, je n'ei pas vu lo motard arrive, Les deigate cont",0.16666666666666666,0.5,0,9369.474
+66,uniquement matériel.,uniqueness that,0.5263157894736842,1.0,0,1540.764
+67,Vous trouverez ci-joint le constat d'accident.,Vous trouverey ci-joint le constat d'accident.,0.022222222222222223,0.125,0,9835.859
+68,Je reste à votre disposition pour apporter toute précision,Je reste a votre disposition pour apporter stoute precision,0.05172413793103448,0.3333333333333333,0,8044.671
+69,utile.,until e.,0.4,2.0,0,2446.016
+70,"Recevez, Madame, Monsieur, l'assurance de mes sentiments","Recovery, Madame, Monsieur, l'assurance de mer sentiments",0.07547169811320754,0.25,0,10586.224
+71,distingués.,dishing us.,0.3,2.0,0,3326.235
+72,"Auriez-vous l'obligence de me communiquer, par","Avinez - vows I'll obligrance done communiquer, par",0.26666666666666666,0.75,0,8989.016
+73,"tout moyen à votre convenance, le détail de vos","tout moyen a votre convenience, he detail de nos",0.13043478260869565,0.5555555555555556,0,6601.063
+74,"horaires d'ouverture au public, afin de préparer","horaives d'ouverture au public, afin de picipaner",0.10638297872340426,0.25,0,8499.109
+75,au mieux ma future visite à votre agence.,an mieux manufacture visits a vote agency.,0.225,0.875,0,6083.638
+76,Je vous en remercie par avance et  vous,te vows en nomencia par avance et vous,0.15789473684210525,0.375,0,6934.903
+77,"prie d'agréer, Messieurs, l'expression de mes","pie d'agner, Messieurs, l'expression de me",0.09302325581395349,0.375,0,8626.704
+78,salutations distinguées.,salutations distinguers.,0.08695652173913043,0.5,0,3282.715
+79,"J'ai vu une  publicite  sur votre société,","f'ai or une publicite sur volte societe,",0.1794871794871795,0.5,0,8220.688
+80,on m'en a déjà dit du bien par ailleurs,on m'en a deja'd it du brei parcellaneous,0.3076923076923077,0.6,0,7969.582
+81,alors je souhaiterai avoir des documents,along in a significant avoir des documents,0.375,0.6666666666666666,0,4693.299
+82,pour une ouverture de compte chez vous,"power "" even ourselves de compte chez vous",0.3157894736842105,0.42857142857142855,0,6804.575
+83,Je reste à votre disposition en espérant,"He resta a votie despostion, on experiment",0.3,1.0,0,6338.577
+84,avoir bientôt de vos nouvelles,avori bientat de vos nouvelle,0.13333333333333333,0.6,0,6744.703
+85,"Cordialement,","Cordicalement,",0.08333333333333333,1.0,0,3667.759
+86,"Hier, en sortant de chez moi, j'ai malencontreusement marché sur le chien de ma","Hier, an soilant de chapma, J'ai malencontreuxement machisur le chien de ma",0.15584415584415584,0.4666666666666667,0,15928.764
+87,"voisine. Celle-ci, tenant beaucoup à son chien, a été particulièrement affectée par l'accident","visine. Celle-a, tenant beaucroup is son chien, a its part achievement affect a par l' accident",0.17582417582417584,0.6,0,14126.567
+88,et me demande un dédommagement de taille,et me demands in electromagement de taille,0.225,0.42857142857142855,0,4115.383
+89,"Etant assurée chez vous depuis de nombreuses années, je sais que l'on peut compter","Etard answering your deposits she nombrasses annies, je sois que l'on peck comptter",0.30864197530864196,0.7333333333333333,0,10953.634
+90,sur l'efficacité de vos services. J' aurais  ici besoin que vous me couvriez au titre de,"our l' efficante de nos sovius. "" Tauxais ici bosoir que vous me couring au libre de",0.2235294117647059,0.5294117647058824,0,12161.405
+91,la responsabilité civile.,La responsatri liti curile.,0.25,1.0,0,3586.155
+92,"Dans l'attente de votre réponse,",Dans l' alternate de votre ripense.,0.16129032258064516,0.3333333333333333,0,4261.098
+93,Cordialement,cordiclement,0.08333333333333333,1.0,0,1847.862
+94,J'aimerais doubler mes prochaines commandes de CD vierges de,j'aimonais double men machines commended de covinges de,0.23333333333333334,0.7,0,5798.802
+95,la part de votre organisme.,la part de vote against the,0.34615384615384615,0.6,0,2483.131
+96,Je vous serais gré de me tenir au courant de la possibilité,""" was a serious one : de me known our command de la possible",0.4576271186440678,0.6666666666666666,0,5379.139
+97,de cette commande.,de cette commande.,0.0,0.0,1,2574.509
+98,"Vous remerciant d'avance, veuillez agréer, Madame, Monsieur,","Vans remaciant d'avance, usually agree, Madame, Monsieur,",0.19642857142857142,0.5,0,7419.204
+99,l'expression de mes sentiments respectueux.,l' expression de mer sentiment's respectreux.,0.07142857142857142,0.6666666666666666,0,4312.107
+100,Ayant passé commande de 10 CD,"Agent, praise commendede to CD",0.3103448275862069,0.8333333333333334,0,3383.864

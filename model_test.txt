@@ -1,0 +1,97 @@
+
+# TEST THESE MODELS AND SELECT THE BEST ONE FOR YOUR USE CASE.
+
+PaddleOCR (PP-OCRv4/v5)
+Tesseract
+TrOCR
+EasyOCR
+
+########################################
+# PERFORMANCE COMPARISON OF THE MODELS #
+########################################
+
+as per RIMES-2011 DATASET
+
+
+===== RESULTS =====
+Model:        paddleocr
+Samples:      100
+Mean CER:     0.1543 (15.43%)
+Mean WER:     0.4750 (47.50%)
+Exact match:  0.0500 (5.00%)
+Avg infer:    2635.81 ms/image
+Saved to:     results\paddleocr_test.csv
+Graph saved:  results\paddleocr_test.png
+
+
+===== RESULTS =====
+Model:        tesseract
+Samples:      100
+Mean CER:     0.5576 (55.76%)
+Mean WER:     1.0484 (104.84%)
+Exact match:  0.0100 (1.00%)
+Avg infer:    158.95 ms/image
+Saved to:     results\tesseract_test.csv
+Graph saved:  results\tesseract_test.png
+
+
+===== RESULTS =====
+Model:        trocr
+Samples:      100
+Mean CER:     0.2138 (21.38%)
+Mean WER:     0.6267 (62.67%)
+Exact match:  0.0300 (3.00%)
+Avg infer:    6843.66 ms/image
+Saved to:     results\trocr_test.csv
+Graph saved:  results\trocr_test.png
+
+
+===== RESULTS =====
+Model:        easyocr
+Samples:      100
+Mean CER:     0.6049 (60.49%)
+Mean WER:     1.1721 (117.21%)
+Exact match:  0.0000 (0.00%)
+Avg infer:    1071.42 ms/image
+Saved to:     results\easyocr_test.csv
+Graph saved:  results\easyocr_test.png
+
+
+===============================================
+# SUMMARY TABLE (100 samples, RIMES-2011 test)
+===============================================
+
+Model        | CER     | WER      | Exact match | Avg infer
+-------------+---------+----------+-------------+-----------
+paddleocr    | 15.43%  | 47.50%   | 5.00%       | 2635.81 ms
+tesseract    | 55.76%  | 104.84%  | 1.00%       | 158.95 ms
+trocr        | 21.38%  | 62.67%   | 3.00%       | 6843.66 ms
+easyocr      | 60.49%  | 117.21%  | 0.00%       | 1071.42 ms
+
+
+========================================
+# BEST MODEL RECOMMENDATION
+========================================
+
+Winner: PADDLEOCR (PP-OCRv4/v5)
+
+- Best CER (15.43%) and best WER (47.50%) by a wide margin
+- Best exact-match rate (5.00%)
+- 2635 ms/img on CPU: fast enough for near-offline batch use
+
+Reasons the others lose:
+- tesseract : 55.76% CER. By far the fastest (159 ms) but too weak for
+              messy handwriting; its single exact match (row 93,
+              "Cordialement") is a short print-like token.
+- trocr     : 21.38% CER is a solid second place, but the slowest
+              (6843 ms/img) - ~2.6x paddleocr at worse quality.
+- easyocr   : 60.49% CER, 0 exact matches. Not suitable for this task.
+
+Practical guidance:
+- Default engine for this dataset / French handwriting: paddleocr.
+- If you need real-time (mobile/embedded) and can accept lower accuracy:
+  tesseract (159 ms) is the only option under ~500 ms.
+- trocr is worth keeping only if you have a GPU to cut its latency.
+
+
+
